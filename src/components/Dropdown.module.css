@@ -1,0 +1,38 @@
+.headingContainer{
+    display: flex;
+    align-items: center;
+    border-bottom: solid 1px #333;
+}
+button{
+    max-height: 30px;
+    margin-left: 10px;
+}
+
+.dropDownContainer{
+    background-color: #f0f0f0;
+    position:relative;
+    border:1px #eee;
+    max-width:500px;
+    width:fit-content;
+    padding: 20px;
+}
+
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+.selected{
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    height: 30px;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
