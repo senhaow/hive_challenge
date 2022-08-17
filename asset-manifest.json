@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hive_challenge/static/css/main.88644d79.css",
+    "main.js": "/hive_challenge/static/js/main.f9a1a6b3.js",
+    "index.html": "/hive_challenge/index.html",
+    "main.88644d79.css.map": "/hive_challenge/static/css/main.88644d79.css.map",
+    "main.f9a1a6b3.js.map": "/hive_challenge/static/js/main.f9a1a6b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88644d79.css",
+    "static/js/main.f9a1a6b3.js"
+  ]
+}
